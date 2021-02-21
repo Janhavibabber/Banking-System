@@ -3,7 +3,7 @@ Sparks Foundation Internship Project : Basic Banking System
 A Web Application used to transfer money between multiple users 
 
 Stack used - Front-end : HTML5, CSS3  Back-end : PHP  : PhpMyAdmin
-
+Hosting - infinityfree
 Database contains two Tables- Customer Table & Transaction Table
 
 Customer table have basic fields such as id,name, email & current balance.
